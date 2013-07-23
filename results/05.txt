@@ -1,0 +1,13 @@
+Total Draw Commands: 14
+Clip Rect: 1 - 0.00ms - 0.12%
+Clip RRect: 1 - 0.26ms - 7.17%
+Draw Bitmap Rect: 1 - 0.32ms - 8.79%
+Draw Pos Text H: 1 - 0.15ms - 4.12%
+Draw Rect: 2 - 2.87ms - 79.20%
+Restore: 3 - 0.01ms - 0.29%
+Save: 3 - 0.01ms - 0.25%
+Translate: 2 - 0.00ms - 0.07%
+Total Time: 3.63ms 100%
+
+SkPicture Width: 1863px
+SkPicture Height: 1171px
